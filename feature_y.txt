@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is where the feature_y should be merged into master
+=======
+This is where the feature_y should be merged into master
+
+Added stuff that represents feature code into this txt
+>>>>>>> feature_y
